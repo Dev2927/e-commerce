@@ -1,47 +1,60 @@
-.card-container{
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: 12rem;
-    margin-top: 2rem;
-    z-index: -2;
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 12rem;
+  margin-top: 2rem;
+  z-index: -2;
 }
 
-.card{
-    margin: 20px;
-    border: 3px solid #dbd8d8;
-    padding: 20px;
-    cursor: pointer;
+.card {
+  margin: 20px;
+  border: 3px solid #f6f2f2;
+  padding: 20px;
+  cursor: pointer;
 }
 
-.card-img{
-    width: 13rem;
-    margin-bottom: 1rem;
+.card-img {
+  width: 13rem;
+  margin-bottom: 1rem;
 }
 
-.card-title{
-    margin-bottom: 1rem;
+.card-title {
+  margin-bottom: 1rem;
 }
 
-.card-reviews{
-    margin-bottom: 1rem;
-    display: flex;
+.card-reviews {
+  margin-bottom: 1rem;
+  display: flex;
 }
 
-.ratings-start{
-    color: #d5ab55;
+.ratings-start {
+  color: #d5ab55;
 }
 
-.total-reviews{
-    font-size: 0.9rem;
-    margin-left: 10px;
+.total-reviews {
+  font-size: 0.9rem;
+  margin-left: 10px;
 }
 
-.card-price{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.card-price {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.bag-icon{
-    color: #535353;
+.bag-icon {
+  color: #535353;
+}
+
+.card {
+  transition: box-shadow 0.3s;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+}
+
+.card:hover {
+  /* background-color: rgb(121, 121, 122); */
+  /* color: white; */
+  box-shadow: 0 0 35px rgb(0, 0, 0);
 }

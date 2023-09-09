@@ -2,7 +2,7 @@ import { AiFillStar } from "react-icons/ai";
 
 const data = [
   {
-    img: "https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg",
+    img: "https://rukminim2.flixcart.com/image/832/832/jzn0tjk0/shoe/h/z/h/415445-102-8-nike-white-metallic-silver-original-imafjmajjdgg8ny6.jpeg?q=70",
     title: "Nike Air Monarch IV",
     star: <AiFillStar className="ratings-start" />,
     reviews: "(1234 reviews)",
@@ -13,30 +13,30 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
+    img: "https://image.goxip.com/rRZe3ih94oTFqSsxsmRbZEwCBhg=/fit-in/500x500/filters:format(jpg):quality(80):fill(white)/https:%2F%2Fimages.stockx.com%2Fimages%2FNike-Air-VaporMax-Plus-White-Red-Product.jpg",
     title: "Nike Air Vapormax Plus",
     star: <AiFillStar className="ratings-start" />,
     reviews: "(123 reviews)",
-    prevPrice: "$140,00",
-    newPrice: "200",
+    prevPrice: "$1000",
+    newPrice: "500",
     company: "Nike",
     color: "red",
     category: "sneakers",
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/51+P9uAvb1L._AC_UY695_.jpg",
+    img: "https://m.media-amazon.com/images/I/51RbmMa-K0L._AC_UL600_FMwebp_QL65_.jpg",
     title: "Nike Waffle One Sneaker",
     star: <AiFillStar className="ratings-start" />,
-    reviews: "(123 reviews)",
+    reviews: "(44 reviews)",
     prevPrice: "$140,00",
-    newPrice: "200",
+    newPrice: "100",
     company: "Nike",
     color: "green",
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71oEKkghg-L._AC_UX575_.jpg",
+    img: "https://4.imimg.com/data4/RP/WJ/MY-28318138/adidas-nmd-boost-new-colour-500x500.jpg",
     title: "Adidas Running shoes",
     star: <AiFillStar className="ratings-start" />,
     reviews: "(123 reviews)",
@@ -82,7 +82,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/71VaQ+V6XnL._AC_UY695_.jpg",
+    img: "https://images.vegnonveg.com/resized/700X573/9695/zoom-freak-5-ep-gym-redmetallic-gold-fir-court-purple-64b67642f181c.jpg",
     title: "Nike Zoom Freak",
     star: <AiFillStar className="ratings-start" />,
     reviews: "(123 reviews)",
@@ -94,7 +94,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/61-cBsLhJHL._AC_UY695_.jpg",
+    img: "https://m.media-amazon.com/images/I/71VZFCUUuqS._AC_UY1000_.jpg",
     title: "Adidas Men's Sneaker",
     star: <AiFillStar className="ratings-start" />,
     reviews: "(123 reviews)",
